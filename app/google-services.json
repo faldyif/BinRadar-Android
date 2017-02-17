@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "516640862882",
+    "firebase_url": "https://binradar-4672d.firebaseio.com",
+    "project_id": "binradar-4672d",
+    "storage_bucket": "binradar-4672d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516640862882:android:a2debc5a1ae0d6d6",
+        "android_client_info": {
+          "package_name": "com.preklit.binradar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516640862882-1adq3v2qi26ut3scvuorj265hbed369g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.preklit.binradar",
+            "certificate_hash": "523671A652A36D9529A34C70B051B7E7425AF2F6"
+          }
+        },
+        {
+          "client_id": "516640862882-ej1mdlsik8hsmhmk75qesjoc116mi79u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9qetiqMsLai0BHiDzhl5MnlOQz4jf2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516640862882-ej1mdlsik8hsmhmk75qesjoc116mi79u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
